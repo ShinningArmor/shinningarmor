@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mndaywe
+# Hi 👋, I'm ShiningArmor
 
 
 ### Full-Stack Developer | Blockchain Enthusiast | Web2 + Web3 Engineeer
